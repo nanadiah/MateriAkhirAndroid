@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118840646002",
+    "firebase_url": "https://authandmessaging-5d2f1.firebaseio.com",
+    "project_id": "authandmessaging-5d2f1",
+    "storage_bucket": "authandmessaging-5d2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118840646002:android:94a6d941ba1efbd8",
+        "android_client_info": {
+          "package_name": "com.example.asus.authandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118840646002-ed54c061o6gg82g0q1mrs1gnt12ul7r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuEx5QN8lO7K94XgTflD1elebQeVti6ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118840646002-ed54c061o6gg82g0q1mrs1gnt12ul7r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
